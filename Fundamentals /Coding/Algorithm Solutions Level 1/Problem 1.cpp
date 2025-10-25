@@ -1,4 +1,4 @@
-//This is a soultion to the Problem #1
+//This is a solution to the Problem #1
 #include <iostream>
 using namespace std;
 
@@ -15,3 +15,4 @@ int main()
     PrintYourName("Youesf_Mslmany");
     return 0;
 }
+
