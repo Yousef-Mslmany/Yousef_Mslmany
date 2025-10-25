@@ -147,7 +147,7 @@ Welcome to the **Fundamentals Roadmap** repository! This repository documents my
 ## 📂 Repository Structure
 
 ```yaml
-Fundamentals_Roadmap/
+Fundamentals/
 ├── 📁 Certificates/       # Certificates earned during the journey (updated regularly).
 ├── 📁 Coding/             # Problem-solving solutions and full projects.
 │   ├── Problem-Solving-Level-01-in-C++/  # 20+ solved problems.
