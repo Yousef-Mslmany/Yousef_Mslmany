@@ -59,14 +59,14 @@ Welcome to the **Fundamentals Roadmap** repository! This repository documents my
 
 ## 🏗️ Projects Breakdown
 
-### 🔢 **Problem-Solving Level 02 (C++)**
+### 🔢 **Algorithm Solutions Level 02 (C++)**
 
 - **🎯 MathQuiz.cpp** – A simple math quiz game designed to improve arithmetic skills interactively.  
 - **🔷 ScissorsPaperRock.cpp** – An implementation of the classic "Scissors Paper Rock" game in C++.
 
 ---
 
-### 🔢 **Problem-Solving Level 03 (C++)**
+### 🔢 **Algorithm Solutions Level 03 (C++)**
 
 - **🏛️ Banking System** – A fully object-oriented implementation with advanced features.  
   - **#52_Project1_Bank-1.cpp** – A basic banking system.  
@@ -74,7 +74,7 @@ Welcome to the **Fundamentals Roadmap** repository! This repository documents my
 
 ---
 
-### 🔢 **Problem-Solving Level 04 (C++)**
+### 🔢 **Algorithm Solutions Level 04 (C++)**
 
 - **🏛️ Bank Extension** – Enhancements including user login and a management system.  
 - **💳 ATM-System-Project.cpp** – A console-based ATM simulation featuring:  
