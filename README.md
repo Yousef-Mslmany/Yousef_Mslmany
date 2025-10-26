@@ -1,6 +1,7 @@
 <!-- Professional GitHub README by Yousef -->
 
-![Profile views](https://profile-counter.glitch.me/Yousef_Mslmany/count.svg)
+![](https://komarev.com/ghpvc/?username=Yousef-Mslmany&color=brightgreen&style=for-the-badge&label=Visitors)
+
 
 
 <h1 align="center">👋 Hellow Coders, I'm Yousef</h1>
