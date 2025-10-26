@@ -1,9 +1,5 @@
 <!-- Professional GitHub README by Yousef -->
 
-## 👀 Profile Visitors
-
-![Profile Views](https://komarev.com/ghpvc/?username=YousefMslmany&color=blueviolet&style=for-the-badge&label=VISITORS)
-
 
 
 
