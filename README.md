@@ -1,5 +1,8 @@
 <!-- Professional GitHub README by Yousef -->
 
+![Profile views](https://profile-counter.glitch.me/Yousef_Mslmany/count.svg)
+
+
 <h1 align="center">👋 Hellow Coders, I'm Yousef</h1>
 
 <p align="center">
