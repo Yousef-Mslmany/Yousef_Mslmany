@@ -23,16 +23,16 @@ Here’s a quick overview of key projects included in this repository:
 
 ### **>_ Console Applications**
 
-1. **MathQuiz**  
+1. **MathGame_Project**  
    🎯 *A simple, interactive math quiz game that sharpens arithmetic skills through engaging challenges.*
 
-2. **ScissorsPaperRock**  
+2. **Stone_Paper_Scissor_Project**  
    ✂️ *A classic implementation of the "Scissors Paper Rock" game in C++, delivering nostalgic fun with a modern twist.*
 
-3. **Banking System**  
+3. **Banking_System_Project**  
    🏦 *A fully object-oriented banking system featuring comprehensive account management, seamless transactions, and robust data persistence.*
 
-4. **ATM-System-Project**  
+4. **ATM_System_Project**  
    💳 *A console-based ATM simulation that supports quick & normal withdrawals, deposits, balance inquiries, secure user authentication, and efficient transaction processing.*
 
 ---
@@ -61,16 +61,16 @@ Welcome to the **Fundamentals Roadmap** repository! This repository documents my
 
 ### 🔢 **Algorithm Solutions Level 02 (C++)**
 
-- **🎯 MathQuiz.cpp** – A simple math quiz game designed to improve arithmetic skills interactively.  
-- **🔷 ScissorsPaperRock.cpp** – An implementation of the classic "Scissors Paper Rock" game in C++.
+- **🎯 MathGame.cpp** – A simple math quiz game designed to improve arithmetic skills interactively.  
+- **🔷 Stone_Paper_Scissor.cpp** – An implementation of the classic "Scissors Paper Rock" game in C++.
 
 ---
 
 ### 🔢 **Algorithm Solutions Level 03 (C++)**
 
 - **🏛️ Banking System** – A fully object-oriented implementation with advanced features.  
-  - **#52_Project1_Bank-1.cpp** – A basic banking system.  
-  - **#53_Project2_Bank-2.cpp** – An extended version with additional functionalities.
+  - **Project1_Bank-1.cpp** – A basic banking system.  
+  - **Project2_Extension_of_Bank_1.cpp** – An extended version with additional functionalities.
 
 ---
 
@@ -163,9 +163,9 @@ Welcome to the **Fundamentals Roadmap** repository! This repository documents my
 Fundamentals/
 ├── 📁 Certificates/       # Certificates earned during the journey (updated regularly).
 ├── 📁 Coding/             # Problem-solving solutions and full projects.
-│   ├── Problem-Solving-Level-01-in-C++/  # 20+ solved problems.
-│   ├── Problem-Solving-Level-02-in-C++/  # 50+ solved problems + 2 console projects.
-│   ├── Problem-Solving-Level-03-in-C++/  # 50+ solved problems + 2 console projects.
-│   ├── Problem-Solving-Level-04-in-C++/  # 65+ solved problems + 2 console projects.
+│   ├── Algorithm_Solutions_Level_01-in-C++/  # 20+ solved problems.
+│   ├── Algorithm_Solutions_Level_02-in-C++/  # 50+ solved problems + 2 console projects.
+│   ├── Algorithm_Solutions_Level_03-in-C++/  # 50+ solved problems + 2 console projects.
+│   ├── Algorithm_Solutions_Level_04-in-C++/  # 65+ solved problems + 2 console projects.
 │   ├── OOP-C++/                          # 3   OOP console projects.
 ├── 📁 Courses/            # Trainer-provided material and slides.
