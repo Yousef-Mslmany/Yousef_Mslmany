@@ -69,7 +69,7 @@ Welcome to the **Fundamentals Roadmap** repository! This repository documents my
 ### 🔢 **Algorithm Solutions Level 03 (C++)**
 
 - **🏛️ Banking System** – A fully object-oriented implementation with advanced features.  
-  - **Project1_Bank-1.cpp** – A basic banking system.  
+  - **Project1_Bank_1.cpp** – A basic banking system.  
   - **Project2_Extension_of_Bank_1.cpp** – An extended version with additional functionalities.
 
 ---
