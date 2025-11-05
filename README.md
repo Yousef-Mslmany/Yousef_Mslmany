@@ -6,14 +6,14 @@
 <h1 align="center">👋 Hellow Coders, I'm Yousef</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer+in+Progress;Learning+Data+Structures;Completed+OOP+Concepts;Following+Abu+Hudhud+Roadmap" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer+in+Progress;I+apply+projects+to+Data+Structures;Completed+Data+Structures+Level+1;Following+Abu+Hudhud+Roadmap" alt="Typing SVG" />
 </p>
 
 ---
 
 # 📌 Fundamentals Roadmap
 
-![Progress](https://img.shields.io/badge/Completed_Courses-11%2F24-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Completed_Courses-12%2F24-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Work_In_Progress-orange?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-185%2B%20Solved%20Problems-success?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-9%20Completed-ff5733?style=for-the-badge&logo=visual-studio-code&logoColor=white)
