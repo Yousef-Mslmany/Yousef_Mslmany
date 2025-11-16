@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hellow Coders, I'm Yousef</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer+in+Progress;I+'+m+learning+now+C#+Level+ 1;Completed+Data+Structures+Level+1;Following+Abu+Hudhud+Roadmap" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer+in+Progress;I%27m+learning+now+C%23+Level+1;Completed+Data+Structures+Level+1;Following+Abu+Hudhud+Roadmap" alt="Typing SVG" />
 </p>
 
 ---
