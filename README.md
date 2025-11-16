@@ -13,10 +13,10 @@
 
 # 📌 Fundamentals Roadmap
 
-![Progress](https://img.shields.io/badge/Completed_Courses-12%2F24-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Completed_Courses-13%2F24-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Work_In_Progress-orange?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-185%2B%20Solved%20Problems-success?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-9%20Completed-ff5733?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects-17%20Completed-ff5733?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
