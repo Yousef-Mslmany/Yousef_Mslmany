@@ -40,6 +40,28 @@ Here’s a quick overview of key projects included in this repository:
 
 ---
 
+### 🖥️ Windows Forms Applications
+
+1. **Pizza_Order_Project**
+   - 🍕 *A dynamic ordering system that calculates prices in real-time based on crust types, sizes, and toppings with a user-friendly interface.*
+
+2. **XO_Game_Project**
+   - 🎮 *A polished "Tic-Tac-Toe" desktop game featuring smart win-detection logic and an interactive grid layout.*
+
+3. **Random_Generator_Project**
+   - 🎲 *A versatile tool for generating random numbers, strings, or colors, useful for simulations and quick decision-making.*
+
+4. **Encryption_Decryption_Project**
+   - 🔐 *A security-focused application that utilizes classic or modern algorithms to protect text data through encryption and decryption.*
+
+5. **Timer_Project**
+   - ⏱️ *A high-precision timer and stopwatch application with customizable alerts and a clean, responsive design.*
+
+6. **Memory_Game_Project**
+   - 🧠 *A classic brain-training game where users match pairs of hidden images, designed to test and improve cognitive memory.*
+     
+---
+
 ## 📘 Introduction
 
 Welcome to the **Fundamentals Roadmap** repository! This repository documents my learning journey 🔬 through **24 foundational programming courses** curated by **Eng. Mohamed Abo-Hadhoud**.
